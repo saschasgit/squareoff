@@ -11,7 +11,7 @@ if (so_env === 'dev') {
 else if (so_env === 'prod' ) {
     host = 'square-off-git-atos-squareoff.apps.wxa3fi1z.westeurope.aroapp.io/';
     listen_port = 8080;
-    connect_port = 2080;
+    connect_port = 8080;
 }
 
 const config = {
