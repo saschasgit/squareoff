@@ -9,7 +9,7 @@ if (so_env === 'dev') {
     listen_port = connect_port = 8080;
 }
 else if (so_env === 'prod' ) {
-    host = 'sqoff.com';
+    host = 'square-off-git-atos-squareoff.apps.wxa3fi1z.westeurope.aroapp.io/';
     listen_port = 8080;
     connect_port = 80;
 }
