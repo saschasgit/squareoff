@@ -9,7 +9,7 @@ if (so_env === 'dev') {
     listen_port = connect_port = 8080;
 }
 else if (so_env === 'prod' ) {
-    host = 'square-off-git-michael-sandbox.apps.flensburg.ocp4.aced.de.atos.net';
+    host = 'square-off-git-atos-squareoff.apps.wxa3fi1z.westeurope.aroapp.io';
     listen_port = 8080;
     connect_port = 8080;
 }
