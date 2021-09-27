@@ -1,5 +1,5 @@
 # SquareOff
-# Atos
+
 
 A game we built for Ludum Dare 35!  Play now at [sqoff.com](http://sqoff.com).
 
