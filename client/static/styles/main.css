@@ -105,12 +105,12 @@ input, button {
     z-index: 40;
 }
 
-.color-picker .pink   { background-color: #D70060; }
-.color-picker .red    { background-color: #E5282E; }
-.color-picker .orange { background-color: #F18D05; }
-.color-picker .green  { background-color: #68d024; }
-.color-picker .blue   { background-color: #00A1CB; }
-.color-picker .teal   { background-color: #16E1E1; }
+.color-picker .pink   { background-color: #202020; }
+.color-picker .red    { background-color: #575757; }
+.color-picker .orange { background-color: #808080; }
+.color-picker .green  { background-color: #bbbbbb; }
+.color-picker .blue   { background-color: #dddddd; }
+.color-picker .teal   { background-color: #ffffff; }
 
 #logo {
     height: 40vh;
